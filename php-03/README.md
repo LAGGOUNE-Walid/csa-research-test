@@ -1,4 +1,4 @@
-
+**Note: create sqlite database called users.db**
 ### Sql Query
 
 ```sql
