@@ -14,6 +14,5 @@ class Response
         http_response_code($statusCode->value);
         header('Content-Type: application/json');
         echo json_encode($content);
-        exit;
     }
 }
